@@ -31,7 +31,7 @@ dependencies:
   - c-ares=1.19.1=h2bbff1b_0
   - ca-certificates=2024.9.24=haa95532_0
   - cachetools=5.3.3=py38haa95532_0
-  - certifi=2024.8.30=pyhd8ed1ab_0
+  - certifi=2024.8.30=py38haa95532_0
   - cffi=1.17.1=py38h827c3e9_0
   - charset-normalizer=3.3.2=pyhd3eb1b0_0
   - click=8.1.7=py38haa95532_0
@@ -135,7 +135,7 @@ dependencies:
   - numpy-base=1.24.3=py38h8a87ada_1
   - oauthlib=3.2.2=py38haa95532_0
   - openjpeg=2.5.2=hae555c5_0
-  - openssl=1.1.1w=hcfcfb64_0
+  - openssl=1.1.1w=h2bbff1b_0
   - opt_einsum=3.3.0=pyhd3eb1b0_1
   - overrides=7.4.0=py38haa95532_0
   - packaging=24.1=py38haa95532_0
@@ -244,4 +244,5 @@ dependencies:
   - pip:
       - keras-tuner==1.4.7
       - kt-legacy==1.0.5
+      - prettytable==3.11.0
 prefix: C:\Users\Gabriel\miniconda3\envs\ml
